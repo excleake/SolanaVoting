@@ -68,7 +68,7 @@ The following functionality is fully implemented and tested:
 
 Example console output:
 
-![Voting Result](docs/screenshots/results.png)
+![Voting Result](screenshots/results.png)
 
 ---
 
@@ -117,5 +117,3 @@ Future improvements may include:
 - Signature-based identity verification
 - Database indexing of votes
 - Multi-question voting support
-
----
